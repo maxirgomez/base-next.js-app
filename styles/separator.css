@@ -1,0 +1,13 @@
+.bg-light-black{
+    background: #212121;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;    
+    justify-content: center;
+}
+.bg-light-black h2{
+    color: #fff;
+    font-weight: 300!important;
+    text-transform: uppercase;
+    font-size: 8vh;
+}

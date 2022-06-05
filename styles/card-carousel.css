@@ -1,0 +1,8 @@
+.card-carousel{
+    height: 300px;
+    background: #fff;
+    filter: drop-shadow(0px 6px 12px rgba(171, 190, 209, 0.3));
+}
+.card-carousel-desc{
+    padding: 10px 20px;
+}
