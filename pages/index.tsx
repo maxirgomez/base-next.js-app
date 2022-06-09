@@ -114,10 +114,7 @@ const HomePage: NextPage = () => {
                 testimonios
               </h2>
               <div className="row">
-                <div className="col-lg-6">
-                  <CardTestimonial />
-                </div>
-                <div className="col-lg-6">
+                <div className="col-lg-12">
                   <CardTestimonial />
                 </div>
               </div>
